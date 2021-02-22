@@ -180,7 +180,7 @@
 - [ ] XSLT
 - [ ] DOM
 - [ ] AJAX
-- [ ] XSD
+- [x] XSD
 
 #### Q21. In an XML DTD, attributes are declared with an ATTLIST declaration. You need to validate the color attribute for element <car> against a fixed list of values. Which is the correct declaration?
 - [ ] <!ATTLIST car color (red|white|blue|black) black>
